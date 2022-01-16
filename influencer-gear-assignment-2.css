@@ -99,7 +99,7 @@ nav{
 }
 
 .hr-down{
-    margin-top: 100px;
+    
     border: 0.;
     outline: 0;
     opacity: 0.5;
@@ -116,11 +116,11 @@ nav{
     /* background: linear-gradient(90deg, rgba(192, 204, 218, 0.1) 0%, rgba(192, 204, 218, 0.6) 50.38%, rgba(192, 204, 218, 0.1) 100%); */
 }
 .company-logo img{
-    width: 55px;
+    width: 10%;
     height: 30px;
     margin-top: 40px;
-    margin-right: 70px;
-    padding-left: 30px;
+    margin-right: 30px;
+    padding-left: 10px;
     align-items: center;
 }
 
